@@ -21,4 +21,4 @@ def uflr(e):
 
 if __name__ == '__main__':
     db = TinyDB('db.json')
-    app.run(host='127.0.0.1', port=8080,debug=True)
+    app.run(host='34.74.27.213', port=8080,debug=False)
